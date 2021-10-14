@@ -3,7 +3,7 @@ gen_data['character'] = [
 ]
 
 gen_data['name'] = [
-'Agune'
+  'Agune'
 , 'Beatrice'
 , 'Breagan'
 , 'Bronwyn'
