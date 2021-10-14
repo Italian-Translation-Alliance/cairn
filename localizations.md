@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Localizations
+title: Localizzazioni
 nav_order: 11
 has_children: true
 ---
 
-# Localizations
+# Localizzazioni
