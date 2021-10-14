@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Monsters
+title: Mostri
 nav_order: 9
 has_children: true
 ---
 
-# Monsters
+# Mostri
