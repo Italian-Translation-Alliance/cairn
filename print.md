@@ -8,10 +8,10 @@ nav_order: 3
 
 <br>
 
-- Print-on-demand lingua **Inglese** [lulu](https://www.lulu.com/en/us/shop/yochai-gal-and-cosmic-orrery-and-jim-parkin/cairn/paperback/product-q7jgg7.html).
+- Print-on-demand lingua **Inglese** [Lulu](https://www.lulu.com/en/us/shop/yochai-gal-and-cosmic-orrery-and-jim-parkin/cairn/paperback/product-q7jgg7.html).
 - Print-on-demand lingua **Inglese** [Amazon](https://www.amazon.it/dp/1329489020/). 
 - Print-on-demand lingua **Italiana** [Amazon](https://www.amazon.it/dp/B09FS8D5Z2). 
-- Print-on-demand lingua **Italiana** [lulu](https://www.lulu.com/it/it/shop/yochai-gal-and-cosmicorrery-and-jim-parkin-and-stefano-grassi/cairn/paperback/product-zvw9j5.html?page=1&pageSize=4). 
+- Print-on-demand lingua **Italiana** [Lulu](https://www.lulu.com/it/it/shop/yochai-gal-and-cosmicorrery-and-jim-parkin-and-stefano-grassi/cairn/paperback/product-zvw9j5.html?page=1&pageSize=4). 
 
 
 ##### Un'edizione di stampa _deluxe_ di Cairn può essere acquistata nei seguenti store:
