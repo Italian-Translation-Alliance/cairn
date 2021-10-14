@@ -1,26 +1,26 @@
 ---
 layout: default
-title: Localization Guide
+title: Guida Localizzazione
 nav_order: 1
-parent: Localizations
+parent: Localizzazioni
 ---
 
-# Localization Guide
+# Guida Localizzazione
 ---
-Although the Cairn rules exist in many forms (PDF, Google Docs, Word, etc), the [SRD](/cairn-srd) is probably the best choice for ease of translation.
+Anche se le regole di Cairn esistono in molte forme (PDF, Google Docs, Word, ecc), il [SRD](/cairn-srd) è probabilmente la scelta migliore per la facilità di traduzione.
 
-## Translating the SRD
-1. Copy the [SRD Markdown](https://github.com/yochaigal/cairn/blob/main/cairn-srd.md) (click Raw) to a markdown editor such as [Typora](https://typora.com) or a web-based renderer like [dillinger.io](https://dillinger.io). If you know how to use Git, you can use [Atom](atom.io). If you don't know markdown, don't worry! It's easy. Read more [here](https://guides.github.com/features/mastering-markdown/).
+## Tradurre l'SRD
+1. Copia l'[SRD Markdown](https://github.com/yochaigal/cairn/blob/main/cairn-srd.md) (clicca su Raw) in un editor markdown come [Typora](https://typora.com) o un renderer basato sul web come [dillinger.io](https://dillinger.io). Se sai come usare Git, puoi usare [Atom](atom.io). Se non conosci markdown, non preoccuparti! È facile. Leggi di più [qui](https://guides.github.com/features/mastering-markdown/).
 
-2. Do the hard work of translating the core document. [Google Translate](https://translate.google.com) and [deepl.com](https://deepl.com) are good resources; you can even simply translate the entire document once, then look through it for corrections.
+2. Fai il grosso lavoro di tradurre il documento principale. [Google Translate](https://translate.google.com) e [deepl.com](https://deepl.com) sono buone risorse; puoi anche semplicemente tradurre l'intero documento in una volta e poi controllarlo per le correzioni.
 
-## Optional: Create a language-specific version of this website!
-1. Follow the steps [here](/resources/fork-this-repo) to get started in forking this repo.
+## Opzionale: Crea una versione di questo sito web specifica per la lingua!
+1. Segui i passi [qui](/resources/fork-this-repo) per iniziare a forkare questo repo.
 
-2. Be sure to name the repo cairn-**lang**, e.g. cairn-fr for French, etc. Your repo should be called something like https://github.com/yourusername/cairn-lang.
+2. Assicuratevi di chiamare il repo cairn-**lang**, ad esempio cairn-fr per il francese, ecc. Il tuo repo dovrebbe essere chiamato qualcosa come https://github.com/yourusername/cairn-lang.
 
-3. Copy the translated markdown into the cairn-srd.md file.
+3. Copia il markdown tradotto nel file cairn-srd.md.
 
-4. Translate the other pages in the repo (readme, resources, etc).
+4. Traduci le altre pagine del repo (readme, risorse, ecc.).
 
-4. When building the Affinity files, add "**Lang** Version" to the cover.
+4. Quando si costruiscono i file Affinity, aggiungere "**Lang** Version" alla copertina.
