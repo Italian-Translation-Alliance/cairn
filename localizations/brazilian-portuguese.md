@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Brazilian Portuguese
+title: Brasiliano Portoghese
 nav_order: 4
-parent: Localizations
+parent: Localizzazioni
 ---
 
 # Documento de Referência do Sistema Cairn (v.1.0)
