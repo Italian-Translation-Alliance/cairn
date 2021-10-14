@@ -1,5 +1,5 @@
 ---
-title: Game Files
+title: File di Gioco (GDrive)↗
 nav_order: 4
-redirect_to: https://drive.google.com/drive/folders/1x9wUazUOSzeu29Eoq43NH8_k9R5wghg-
+redirect_to: https://drive.google.com/folderview?id=1v4lHA9wHureeLZjUF6e2kBoM-Xkh4_7X
 ---
