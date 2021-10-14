@@ -1,99 +1,99 @@
 ---
 layout: default
-title: Good Dungeon Design
+title: Buon design del dungeon
 nav_exclude: true
 search_exclude: true
 ---
 
-# Good Dungeon Design
+# Buon design del dungeon
 
-## Principles of Good Dungeon Design (Questing Beast)
-### 1. Multiple Entrances/Exits
-- Avoids the players feeling railroaded
-- Add information to doorways and such (lets them choose the kind of fun they want to have)
+## Principi di buona progettazione dei dungeon (Questing Beast)
+### 1. Entrate/uscite multiple
+- Evita che i giocatori si sentano in trappola
+- Aggiungi informazioni sulle porte e simili (permette loro di scegliere il tipo di divertimento che vogliono avere)
 
-### 2. Consider why it was built in the first place
-- How long ago?
-- What was it used for? Is it different now?
-- What was it designed to keep out?
+### 2. Considera perché è stato costruito in primo luogo
+- Quanto tempo fa?
+- Per cosa veniva usato? È diverso ora?
+- È stato progettato per tenere fuori cosa?
 
-### 3. Levels
-- Represents gradation of danger
-- Adds a gambling aspect (how far do I want to go?)
+### 3. Livelli
+- Rappresentano gradi di pericolo
+- Aggiungono un aspetto di gioco (quanto lontano voglio andare?)
 
-### 4. Have loops
-- Avoid linear design
-- Avoid tree-like structure (dead end paths)
-- Create a network of linked rooms and corridors in different ways
-- Allows for interesting strategies, especially with combat and ambushes
+### 4. Circolarità
+- Evita il design lineare
+- Evita la struttura ad albero (percorsi senza uscita)
+- Crea una rete di stanze e corridoi collegati in modi diversi
+- Questo permette strategie interessanti, specialmente con il combattimento e le imboscate
 
-### 5. Have a lot of verticality
-- Have tall rooms (galleries), things to climb on
-- Mineshafts going down
-- Things that give the players something to drop on to
-- Makes mapping more difficult but also more fun
-- Lets them go up and over, instead of just pushing through
+### 5. Avere molta verticalità
+- Avere stanze alte (gallerie), cose su cui arrampicarsi
+- Cunicoli che scendono verso il basso
+- Cose che diano ai giocatori qualcosa su cui cadere
+- Rende la mappatura più difficile ma anche più divertente
+- Permette di andare su e giù, invece di spingere solo attraverso
 
-### 6. Create secret areas/zones
-- Have at least one place the players might not find
-- Have clues that say, "there is something weird with this room"
-- Allowing players to feel the accomplishment of discovery. Very rewarding.
+### 6. Creare aree/zone segrete
+- Avere almeno un posto che i giocatori potrebbero non trovare
+- Avere indizi che dicano "c'è qualcosa di strano in questa stanza"
+- Permettere ai giocatori di sentire un senso di compiutezza della scoperta. Molto gratificante.
 
-### 7. Variety in Room types
-- Height, shape (octagonal)
-- Make sure they are easy to describe, adds texture and variety
-- Helps the players see how the rooms were used
-- Helps players recognize rooms
-- Use architectural motifs to help connect rooms thematically, helps players as they move from one room to another
+### 7. Varietà nei tipi di stanze
+- Altezza, forma (ottagonale)
+- Assicurati che siano facili da descrivere, aggiunge consistenza e varietà
+- Aiuta i giocatori a vedere come venivano usate le stanze
+- Aiuta i giocatori a riconoscere le stanze
+- Usa motivi architettonici per aiutare a collegare tematicamente le stanze, aiuta i giocatori a spostarsi da una stanza all'altra
 
-### 8. Tactically useful areas
-- Having noticeable areas that players can see ways to use it for their advantage
-- Chokepoints (bridges, narrow corridors), places you have to crawl
-- Uphill (rolling boulders down)
+### 8. Aree tatticamente utili
+- Avere aree degne di nota che i giocatori possono trovare utili a loro vantaggio
+- Strozzature (ponti, corridoi stretti), luoghi in cui si deve strisciare
+- In salita (far rotolare dei massi verso il basso)
 
-### 9. Spying opportunities
-- Information is important for meaningful choices
-- Portcullis where enemies can be heard but can't see PCs
-- One-way mirrors, speaking tubes, etc
+### 9. Opportunità di spionaggio
+- Le informazioni sono importanti per scelte significative
+- Saracinesche dove i nemici possono essere sentiti ma non possono vedere i PG
+- Specchi a senso unico, tubi parlanti, ecc.
 
-_Emphasize putting the power in the player's hands to make their own decisions, so that their choices have the greatest possible impact._
+_Mettere il potere nelle mani del giocatore per prendere le proprie decisioni, in modo che le sue scelte abbiano il maggior impatto possibile._
 
-## Dungeon Checklist (Goblin Punch)
-### Something to steal
+## Checklist del Dungeon (Goblin Punch)
+### Qualcosa da rubare
 
 
-### Something to be killed
+### Qualcosa da uccidere
 
-### Something to kill you
+### Qualcosa che ti uccida
 
-### Different Paths
+### Percorsi diversi
 
-### Someone to talk to
+### Qualcuno con cui parlare
 
-## Grognardia OSR Dungeon Design Guidelines
-1. Environmental hazards -- slippery floors, rooms that flood, narrow ledges over steep drops, rooms that are excessively hot or cold, rooms or corridors filled with poison (or otherwise magical) gasses, etc.
+## Linee guida per la progettazione dei Dungeon di Grognardia OSR
+1. Pericoli ambientali -- pavimenti scivolosi, stanze che si allagano, sporgenze strette su pendii ripidi, stanze che sono eccessivamente calde o fredde, stanze o corridoi pieni di gas velenosi (o altrimenti magici), ecc.
 
-2. Combat encounters should generally be with baseline (or near-baseline) monsters with difficulty enhanced by the circumstances of the encounter (i.e. monsters have set up ambushes, monsters forcing the PCs to fight in unfavorable surroundings, teams of similar (or dissimilar) monster-types working together, etc.) rather than through templates or class-leveling
+2. Gli incontri di combattimento dovrebbero essere generalmente con mostri di base (o quasi) con difficoltà aumentate dalle circostanze dell'incontro (cioè mostri che hanno preparato imboscate, mostri che costringono i PG a combattere in ambienti sfavorevoli, squadre di mostri simili (o dissimili) che lavorano insieme, etc.) piuttosto che attraverso modelli o livellamento di classe
 
-3. At least one encounter that if played as a straight combat will totally overmatch the party, but which can be avoided or circumvented by some clever means
+3. Almeno un incontro che, se giocato come un combattimento diretto, sarà totalmente superiore al gruppo, ma che può essere evitato o aggirato con qualche mezzo intelligente
 
-4. At least one puzzle, trick, or obstacle that requires the players to figure it out, rather than being solvable by a die-roll
+4. Almeno un puzzle, un trucco o un ostacolo che richieda ai giocatori di capirlo, piuttosto che essere risolvibile con un tiro di dado
 
-5. At least one item, location, or creature that causes some kind of significant permanent effect (permanently raise/lower stats or hp, permanently change race, gender, or alignment, permanently grant or take away magic items, etc.) determined by a random roll on a table -- with possibilities for both good and bad effects, depending on the roll
+5. Almeno un oggetto, un luogo o una creatura che causi qualche tipo di effetto permanente significativo (aumentare/abbassare permanentemente le statistiche o i CV, cambiare permanentemente razza, sesso o allineamento, concedere o togliere permanentemente oggetti magici, ecc.) determinato da un tiro casuale su una tabella -- con possibilità di effetti sia buoni che cattivi, a seconda del tiro
 
-6. At least one item of treasure that is cursed or has other detrimental side-effects on the owner/possessor
+6. Almeno un oggetto del tesoro che sia maledetto o che abbia altri effetti collaterali dannosi per il proprietario/possessore
 
-7. Some sort of "false climax" where inattentive players will think they've won the adventure and either let their guard down or go home, while clever players will realize this couldn't have really been the climax
+7. Una sorta di "falso climax" in cui i giocatori disattenti penseranno di aver vinto l'avventura e abbasseranno la guardia o andranno a casa, mentre i giocatori intelligenti capiranno che questo non può essere stato davvero il climax
 
-8. At least one disorienting effect. teleporter, mirror trap, [swiveling] floor, or maze like monster. up is down too.
+8. Almeno un effetto di disorientamento. teletrasporto, trappola a specchio, pavimento [girevole], o un mostro simile a un labirinto.
 
-9. An area where resources are an issue. wet torches or wind blowing them out. oxygen low or having to hold your breath to swim [through] a tunnel.
+9. Un'area dove le risorse sono un problema. torce bagnate o vento che le soffia via. ossigeno basso o dover trattenere il respiro per nuotare [attraverso] un tunnel.
 
-10. An area that has items of value. but they are too large to transport. or cause someone to have his hands full at an ambush.
+10. Un'area che ha oggetti di valore. ma sono troppo grandi da trasportare. o far sì che qualcuno abbia le mani occupate in un'imboscata.
 
-11. A creature that appears to be something it is not. Some examples: Lurker above, mimic, [cloaker], wolf in sheep's clothing, doppelganger, gas spore (perhaps my favorite), etc.
+11. Una creatura che sembra essere qualcosa che non è. Alcuni esempi: Inseguitore di cui sopra, mimic, [occultante], lupo travestito da pecora, doppelganger, spora gassosa (forse la mia preferita), ecc.
 
-12. One encounter (no more, no less) that makes absolutely no logical sense, that the DM completely leaves up to the players' imagination to explain.
+12. Un incontro (né più, né meno) che non ha assolutamente senso logico, che il DM lascia completamente all'immaginazione dei giocatori di spiegare.
 
-## Other stuff
-- Add generic details to the key, like "unless otherwise noted, the dungeon is musty, wet, etc..."
+## Altre cose
+- Aggiungere dettagli generici alla chiave, come "se non diversamente indicato, il dungeon è ammuffito, bagnato, ecc...".
