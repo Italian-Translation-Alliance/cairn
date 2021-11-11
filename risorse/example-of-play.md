@@ -1,73 +1,73 @@
 ---
 layout: default
-title: Example of Play
-parent: Resources
+title: Esempio di gioco
+parent: Risorse
 nav_order: 4
 ---
 
-# Example of Play
+# Esempio di gioco
 ---
 
-**Keep the following in mind:**  
-- **Esther** is playing an ex-**Herbalist**.
-- **Barry** plays a former **Hunter**.
-- The PCs are in search of a powerful [**Relic**](/cairn-srd/#relics), rumored to have restorative powers.
-- Recently the party uncovered a parchment that detailed the item's true location, and have set off to recover it.
+**Tieni a mente che:**
+- **Esther** sta giocando un ex **Erborista**
+- **Barry** gioca un ex **Cacciatore**
+- I personaggi sono in cerca di una potente [**Reliquia**](/cairn-srd/#reliquie), che si dice abbia poteri curativi.
+- Di recente, il gruppo ha scoperto una pergamena che descriveva la vera posizione dell'oggetto, da qualche parte nell'estremità orientale della **Foresta di Geunant**, un bosco noto per i suoi alberi antichi e massicci, i cui grandi rami fanno passare poca luce.
 
- **Warden**: _"You've spent the better part of the morning cutting your way through the **Geunant Forest**, chopping past hanging vines and waist-high brambles. It is very easy to get lost here among the surrounding underbrush. To make matters worse the Sun is completely obscured by the thick overhead branches."_
 
- **Barry**: _"Does my **Hunter** background help at all?"_
+ **Custode**: _"Avete trascorso buona parte della mattinata facendovi strada attraverso la **Foresta di Geunant**, tagliando viticci pendenti e cespugli che vi arrivavano alla vita. È molto facile perdersi qua, in mezzo al folto sottobosco. Per peggiorare le cose, il Sole è completamente oscurato dai folti rami sopra le vostre teste."_
 
- **Warden:** _"Yes, though you have to stop every few minutes to survey your surroundings; progress is slow-going as a result. You continue heading East towards your destination."_
+ **Barry**: _"Il mio background da **Cacciatore** può aiutarci in qualche modo?"_
 
- **Warden:** _"After a few hours you exit into a small clearing in the wood, perfect for a short break. On the other end of the clearing is a small, visible path heading East. The entrance to the path is blocked by a large flowering plant sitting in a solitary sunbeam; it drips a green ichor from open, blue pods."_
+ **Custode**: _"Sì, anche se devi fermarti spesso per guardarti attorno; di conseguenza, andate a rilento. Continuate ad andare a Est, verso la vostra destinazione"_
 
- **Esther**: _"As a former **Herbalist**, do I recognize this plant?"_
+ **Custode**: _"Dopo qualche ora sbucate in una piccola radura tra le piante, perfetta per una breve sosta. Dall'altra parte della radura c'è un sentiero piccolo ma visibile che punta a Est. L'entrata del sentiero è bloccata da una grossa pianta in fiore, illuminata da un solitario raggio di sole; dai suoi baccelli aperti, di colore blu, sgocciola un icore verde."_
 
- **Warden**: _"Yes. You also knows that it is probably overgrown on account of the sunbeam drenching it in natural light."_
+ **Esther**: _"Come ex **Erborista**, riconosco la pianta?"_
 
-**Esther**: _"What do the colors tell me about the plant? Is it poisonous? What about the green ichor?"_
+ **Custode**: _"Sì. Sai anche che probabilmente è cresciuta molto per via del raggio di sole che la sommerge di luce naturale."_
 
-**Warden**: _"You observe all these things, and reckon that yes it is very likely poisonous, as the petals closely resemble that of Wolfsbane."_
+ **Esther**: _"Cosa mi dicono i colori della pianta? È velenosa? Cosa so dell'icore verde?"_
 
-**Barry**: _"All right, here's the plan: I'll climb up one of these trees above the plant and drape my blanket over it, blocking the sunlight. Hopefully that'll make the pods close up!"_
+ **Custode**: _"Osservi tutte queste cose e riconosci che, sì, molto probabilmente è velenosa, perché i petali ricordano molto quelli dell'Aconito."_
 
-**Warden**: _"You carefully lay your sleeping blanket between to trunks, casting a shadow over the blue pods of the plant below. Immediately they begin to close, just enough to allow a careful person to squeeze around them."_
+ **Barry**: _"Va bene, il piano è questo: scalerò uno degli alberi sopra la pianta e vi stenderò sopra il mio sacco a pelo, per bloccare la luce. Con un po' di fortuna, questo farà chiudere i baccelli!"_
 
-**Esther**: _"Excellent. I'm going to carefully extract one of the leaves for later use, then move on."_
+ **Custode**: _"Stendi con cura il tuo sacco a pelo tra due tronchi, proiettando un'ombra sopra i baccelli blu della pianta al di sotto. Immediatamente, questi cominciano a chiudersi, abbastanza da permettere a una persona attenta di passarvi in mezzo."_
 
-**Warden**: _"By late afternoon you finally break through the forest boundary. Spilling out of the treeline, you nearly step into a deep chasm splitting the forest in two. Finally, you have arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately, your quarry is likely located just across, where the cliffs meet the edge of the world. There is a small clearing nearby where you could set up camp, shrouded by a humongous Oak tree planted close to the chasm."_
+ **Esther**: _"Eccellente. Voglio provare a estrarre con cura una delle foglie, per usarla in futuro, e poi andare avanti."_
 
- **Esther**: _"I think we should make camp before moving out. If we have to climb into or around this chasm, I'd rather have the light on our side!"_
+ **Guardiano**: _"Nel tardo pomeriggio arrivate finalmente al limitare della foresta. Uscendo dagli alberi, quasi cadete in un profondo orrido che taglia in due la foresta. Finalmente, siete arrivati al **Crollo Divino**, una gola apparendemente senza fondo e senza un ponte che la attraversi. A giudicare dalle pareti di nuda roccia su entrambi i lati, calarsi sarebbe estremamente pericoloso. Sfortunatamente, la vostra mèta si trova proprio dall'altra parte, dove le rupi incontrano il confine del mondo. Nelle vicinanze c'è una piccola radura dove potreste accamparvi, protetti da un gigantesco albero di Quercia piantato vicino all'orrido"_
 
- **Barry**: _"Definitely. I wonder what the safest way to do it would be? Backs against the ravine?"_
+ **Esther**: _"Penso che dovremmo accamparci prima di andare avanti. Se dobbiamo calarci o aggirare l'abisso, preferirei avere la luce dalla nostra!"_
 
- **Warden**: _"Yes, unless of course something comes out of it!" Who's on first watch, by the way?"_
+ **Barry**: _"Decisamente. Mi chiedo quale sia il modo più sicuro di farlo? Diamo le spalle al precipizio?"_
 
- **Esther**: _"I'll take first shift._"
+ **Guardiano**: _"Sì, a meno che, ovviamente, non ne esca qualcosa! A proposito, chi fa il primo turno di guardia?"_
 
-  **Warden**: _"You make camp and eat one of your rations. Halfway through the first shift, you hear a snapping of twigs coming from just to the West of the campsite, back towards the **Geunant Forest**. What do you do?"_
+ **Esther**: _"Il primo turno lo prendo io."_
 
-  **Esther**: _"I'd like to kick my comrade awake so I'm not alone in this, quietly nodding my head towards the direction of the noise and making the symbol for silence."_
+ **Guardiano**: _"Vi accampate e mangiare una delle vostre razioni. A metà del primo turno di guardia, il rumore di rami spezzati provenire da Ovest dell'accampamento, verso la **Foresta di Geunant**. Cosa fai?"_
 
-  **Warden**: _"You do that, and he sits up just as a pair of horrid red eyes become visible behind the underbrush._"
+ **Esther**: _"Vorrei svegliare il mio compagno con un calcio, così non devo affrontare questa cosa da sola, indicandogli silenziosamente con la testa la direzione del rumore e facendogli cenno di far silenzio."_
 
-  **Barry**: _"What do we know about the creatures here?"_
+ **Guardiano**: _"Lo fai e proprio mentre si sta alzando un paio di orridi occhi rossi diventa visibile dietro alle foglie del sottobosco."_
 
-  **Warden**: _"You know that whatever creatures may be stalking this forest at night are very likely dangerous. You will likely not have time to chat with whatever is about to come out of there."_
+ **Barry**: _"Cosa sappiamo delle creature che vivono qui?"_
 
-  **Esther**: _"I'm prepared to fight, then. I stand up and draw my sword, ready for whatever comes."_
+ **Guardiano**: _"Sapete che qualsiasi creatura che attraversi questa foresta di notte è molto probabilmente pericolosa. Difficilmente avrete il tempo di parlare con qualsiasi cosa stia per emergere da lì"_
 
- **Warden**: _"An Elk-like creature with glowing-red eyes explodes from the darkness of the wood opposite the party's campsite. A sea of mist flows off the creature's body as it runs directly at you, **Barry**. **Esther** was at the ready, so she gets to go first."_
+ **Esther**: _"Allora sono pronta a combattere. Mi alzo e sfodero la spada, pronta per qualsiasi cosa arrivi"_
 
- **Barry**: _"What about me?"_
+ **Guardiano**: _"Una creatura simile a un alce, con occhi rossi come braci, esplode dall'oscurità della foresta dalla parte opposta dell'accampamento del gruppo. Un mare di nebbia fluisce dal corpo della creatura mentre ti corre incontro, **Barry**. **Esther** era già pronta, quindi agisce per prima."_
+ 
+ **Barry**: _"E io?"_
 
- **Warden**: _"You'll need to make a **DEX save** to see if you are able to ready yourself in time to react before the creature."_
+ **Guardiano**: _"Tu dovrai superare un **tiro salvezza su DES** per vedere se sei in grado di prepararti in tempo per agire prima della creatura."_
 
- **Barry**: _"I rolled 1d20, and the result is a 17. Ouch."_
+ **Barry**: _"Ho tirato 1d20 e ho fatto 17. Ahia."_
 
- **Warden**: _"Yes, that's a fail. **Esther** will go first, then the creature, and finally **Barry**. After that you both will go again in any order you wish, then the creature, and so on."_
-
+ **Guardiano**: _"Già, è un fallimento. **Esther**, tu agirai per prima, poi la creatura e infine **Barry**. Dopodiché voi due agirete di nuovo nell'ordine che preferite, poi toccherà alla creatura e via così"_
  **Esther**: _"Do we know anything about this creature?"_
 
  **Warden**: _"Yes - it's a [**Blood Elk**](/monsters/blood-elk/), which is a sort of killer deer born from great greed or envy. They are pretty powerful, from what you've heard."_
