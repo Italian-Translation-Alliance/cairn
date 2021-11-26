@@ -15,7 +15,7 @@ nav_order: 4
 - Di recente, il gruppo ha scoperto una pergamena che descriveva la vera posizione dell'oggetto, da qualche parte nell'estremità orientale della **Foresta di Geunant**, un bosco noto per i suoi alberi antichi e massicci, i cui grandi rami fanno passare poca luce.
 
 
- **Custode**: _"Avete trascorso buona parte della mattinata facendovi strada attraverso la **Foresta di Geunant**, tagliando viticci pendenti e cespugli che vi arrivavano alla vita. È molto facile perdersi qua, in mezzo al folto sottobosco. Per peggiorare le cose, il Sole è completamente oscurato dai folti rami sopra le vostre teste."_
+**Custode**: _"Avete trascorso buona parte della mattinata facendovi strada attraverso la **Foresta di Geunant**, tagliando viticci pendenti e cespugli che vi arrivavano alla vita. È molto facile perdersi qua, in mezzo al folto sottobosco. Per peggiorare le cose, il Sole è completamente oscurato dai folti rami sopra le vostre teste."_
 
  **Barry**: _"Il mio background da **Cacciatore** può aiutarci in qualche modo?"_
 
@@ -37,227 +37,228 @@ nav_order: 4
 
  **Esther**: _"Eccellente. Voglio provare a estrarre con cura una delle foglie, per usarla in futuro, e poi andare avanti."_
 
- **Guardiano**: _"Nel tardo pomeriggio arrivate finalmente al limitare della foresta. Uscendo dagli alberi, quasi cadete in un profondo orrido che taglia in due la foresta. Finalmente, siete arrivati al **Crollo Divino**, una gola apparendemente senza fondo e senza un ponte che la attraversi. A giudicare dalle pareti di nuda roccia su entrambi i lati, calarsi sarebbe estremamente pericoloso. Sfortunatamente, la vostra mèta si trova proprio dall'altra parte, dove le rupi incontrano il confine del mondo. Nelle vicinanze c'è una piccola radura dove potreste accamparvi, protetti da un gigantesco albero di Quercia piantato vicino all'orrido"_
+ **Custode**: _"Nel tardo pomeriggio arrivate finalmente al limitare della foresta. Uscendo dagli alberi, quasi cadete in un profondo orrido che taglia in due la foresta. Finalmente, siete arrivati al **Crollo Divino**, una gola apparendemente senza fondo e senza un ponte che la attraversi. A giudicare dalle pareti di nuda roccia su entrambi i lati, calarsi sarebbe estremamente pericoloso. Sfortunatamente, la vostra mèta si trova proprio dall'altra parte, dove le rupi incontrano il confine del mondo. Nelle vicinanze c'è una piccola radura dove potreste accamparvi, protetti da un gigantesco albero di Quercia piantato vicino all'orrido"_
 
  **Esther**: _"Penso che dovremmo accamparci prima di andare avanti. Se dobbiamo calarci o aggirare l'abisso, preferirei avere la luce dalla nostra!"_
 
  **Barry**: _"Decisamente. Mi chiedo quale sia il modo più sicuro di farlo? Diamo le spalle al precipizio?"_
 
- **Guardiano**: _"Sì, a meno che, ovviamente, non ne esca qualcosa! A proposito, chi fa il primo turno di guardia?"_
+ **Custode**: _"Sì, a meno che, ovviamente, non ne esca qualcosa! A proposito, chi fa il primo turno di guardia?"_
 
  **Esther**: _"Il primo turno lo prendo io."_
 
- **Guardiano**: _"Vi accampate e mangiare una delle vostre razioni. A metà del primo turno di guardia, il rumore di rami spezzati provenire da Ovest dell'accampamento, verso la **Foresta di Geunant**. Cosa fai?"_
+ **Custode**: _"Vi accampate e mangiare una delle vostre razioni. A metà del primo turno di guardia, il rumore di rami spezzati provenire da Ovest dell'accampamento, verso la **Foresta di Geunant**. Cosa fai?"_
 
  **Esther**: _"Vorrei svegliare il mio compagno con un calcio, così non devo affrontare questa cosa da sola, indicandogli silenziosamente con la testa la direzione del rumore e facendogli cenno di far silenzio."_
 
- **Guardiano**: _"Lo fai e proprio mentre si sta alzando un paio di orridi occhi rossi diventa visibile dietro alle foglie del sottobosco."_
+ **Custode**: _"Lo fai e proprio mentre si sta alzando un paio di orridi occhi rossi diventa visibile dietro alle foglie del sottobosco."_
 
  **Barry**: _"Cosa sappiamo delle creature che vivono qui?"_
 
- **Guardiano**: _"Sapete che qualsiasi creatura che attraversi questa foresta di notte è molto probabilmente pericolosa. Difficilmente avrete il tempo di parlare con qualsiasi cosa stia per emergere da lì"_
+ **Custode**: _"Sapete che qualsiasi creatura che attraversi questa foresta di notte è molto probabilmente pericolosa. Difficilmente avrete il tempo di parlare con qualsiasi cosa stia per emergere da lì"_
 
  **Esther**: _"Allora sono pronta a combattere. Mi alzo e sfodero la spada, pronta per qualsiasi cosa arrivi"_
 
- **Guardiano**: _"Una creatura simile a un alce, con occhi rossi come braci, esplode dall'oscurità della foresta dalla parte opposta dell'accampamento del gruppo. Un mare di nebbia fluisce dal corpo della creatura mentre ti corre incontro, **Barry**. **Esther** era già pronta, quindi agisce per prima."_
+ **Custode**: _"Una creatura simile a un alce, con occhi rossi come braci, esplode dall'oscurità della foresta dalla parte opposta dell'accampamento del gruppo. Un mare di nebbia fluisce dal corpo della creatura mentre ti corre incontro, **Barry**. **Esther** era già pronta, quindi agisce per prima."_
  
  **Barry**: _"E io?"_
 
- **Guardiano**: _"Tu dovrai superare un **tiro salvezza su DES** per vedere se sei in grado di prepararti in tempo per agire prima della creatura."_
+ **Custode**: _"Tu dovrai superare un **tiro salvezza su DES** per vedere se sei in grado di prepararti in tempo per agire prima della creatura."_
 
  **Barry**: _"Ho tirato 1d20 e ho fatto 17. Ahia."_
 
- **Guardiano**: _"Già, è un fallimento. **Esther**, tu agirai per prima, poi la creatura e infine **Barry**. Dopodiché voi due agirete di nuovo nell'ordine che preferite, poi toccherà alla creatura e via così"_
- **Esther**: _"Do we know anything about this creature?"_
+ **Custode**: _"Già, è un fallimento. **Esther**, tu agirai per prima, poi la creatura e infine **Barry**. Dopodiché voi due agirete di nuovo nell'ordine che preferite, poi toccherà alla creatura e via così"_
 
- **Warden**: _"Yes - it's a [**Blood Elk**](/monsters/blood-elk/), which is a sort of killer deer born from great greed or envy. They are pretty powerful, from what you've heard."_
+ **Esther**: _"Sappiamo qualcosa di questa creatura?"_
 
- **Esther**: _"Spooky! In that case, I want to use my action to help drag my comrade out of the way, maybe towards that Oak tree you mentioned earlier."_
+ **Custode**: _"Sì - è un'[**Alce Sanguinaria**](/monsters/blood-elk/), cioè una specie di cervo assassino nato da una grande cupidigia o invidia. Sono piuttosto potenti, da quello che hai sentito."_
 
- **Warden**: _"You were already standing and ready to go, so I'm going to rule that this just happens, too quickly for the creature to change its trajectory. You manage to pull **Barry** just to the East of the now-trampled campsite, close to the Oak tree located just steps away from the **God-Slip**. Now, it's the **Blood Elk's** turn. It plows through the space **Barry** once occupied, wrecking the campfire. It swings wildly around, nearly careening off the cliff-face in the process. It's eyes glow a hateful violet as it turns back towards the both of you. **Barry**, it's your turn. You should note that you have only your hip-knife for combat, as everything else is still back at the camp. Worse, the darkness has impeded your ability to see more than its flaming red eyes. Use 1d4 when rolling damage."_
+ **Esther**: _"Spaventoso! In questo caso, voglio usare la mia azione per aiutare il mio compagno a trascinarsi fuori dal suo percorso, magari verso quella Quercia che hai menzionato prima."_
 
- **Barry**: _"Screaming, I launch my dagger straight at the creature. I roll 1d4 and the result is a 1."_
+ **Custode**: _"Eri già in piedi e pronta ad agire, quindi deciderò che succede e basta, troppo in fretta perché la creatura possa cambiare la sua traiettoria. Riesci a trascinare **Barry** a Est del campo ormai calpestato, vicino alla Quercia che si trova a pochi passi dal **Crollo Divino**. Ora è il turno dell'**Alce Sanguinaria**. Attraversa lo spazio che **Barry** occupava fino a un attimo fa, distruggendo il fuoco da campo. Si volta violentemente, quasi scivolando dal dirupo nel processo. I suoi occhi brillano di un viola carico d'odio mentre si gira verso voi due. **Barry** tocca a te. Tieni conto che hai soltanto il tuo coltellino per il combattimento, perché tutto il resto è ancora al campo. Peggio, l'oscurità ti rende incapace di vedere qualcosa di più dei suoi fiammeggianti occhi rossi. Usa 1d4 quando tiri per il danno."_
 
- **Warden**: _"The knife flies expertly from your hand, slicing through the misty air just above the creature, landing a few feet behind it. The beast whinnies in anger, then crouches as it prepares to charge again. It's your side's turn now. Go in any order."_
+ **Barry**: _"Urlando, lancio il mio pugnale verso la creatura. Tiro 1d4 e il risultato è un 1."_
 
- **Esther**: _"I have an idea: the creature previously charged at **Barry**, right? So it seems reasonable that it would do so again. What if I tossed one end of my rope to **Barry**, and then looped it to a nearby tree? Then if it comes close enough try and trample him again, he could just... leap off the cliff? Holding the rope for support, of course."_
+ **Custode**: _"Il coltello vola abilmente dalla tua mano, fendendo l'aria brumosa appena sopra la creatura e atterrando qualche piede alle sue spalle. La bestia mugghia di rabbia e flette le gambe mentre si prepara a caricare di nuovo. Tocca voi ora. Andate nell'ordine che preferite._"
 
- **Barry**: _"Uh... That sounds like a plan, I guess. Yes, let's do it!"_
+ **Esther**: _"Ho un'idea: la creatura prima ha caricato **Barry**, giusto? Quindi sembra ragionevole che lo faccia di nuovo? E se tirassi un'estremità della mia corda a **Barry** e poi lui la facesse girare attorno a un albero vicino? Così se si avvicina di nuovo cercando di calpestarlo lui potrebbe...saltare giù? Tenendosi alla corda, ovviamente."_
 
- **Warden**: _"**Esther**, you toss one end of your rope to **Barry**, who quickly loops the rope around the Oak tree, then rushes towards the cliff-face on the other side, screaming at the creature to charge at him. **Esther** takes point as a sort of ballast in case he falls. **Barry**, as you are in position to react, I'm going to allow you a sort of out of combat reaction."_
+ **Barry**: _"Uhm... suona come un piano, credo. Sì, facciamolo!"_
 
-  **Barry**: _"All right, if it comes near me I'd like to stand near the cliff edge, ready to leap out of the way."_
+ **Custode**: _"**Esther**, lanci una estremità della tua corda a **Barry**, che la fa girare attorno alla Quercia e poi corre verso lo strapiombo dall'altra parte, urlando alla creatura di attaccarlo. **Esther** prende posizione come una sorta di contrappeso se dovesse cadere. **Barry**, siccome sei in condizione di reagire, ti permetto una specie di reazione da fuori dal combattimento."_
+ 
+  **Barry**: _"Va bene, se mi si avvicina vorrei stare vicino al bordo del dirupo, pronto a saltar via."_
 
-  **Warden**: _"Understood. It is now the **Blood Elk's** turn, and obviously it's still very angry at you, **Barry**. Raising its devilish hooves, the beast charges towards you once again. You leap off the cliff at the last second, holding onto the rope with all your might. The **Blood Elk** attempts to halt its attack the moment it sees its target falling. It makes a **DEX save** to see if it can successfully stop. Ack, it rolled a 20, and goes tumbling off the cliff and into the vast dark below."_
+  **Custode**: _"Capito. Ora tocca all'**Alce Sanguinaria** e ovviamente è ancora molto arrabbiata con te, **Barry**. Alzando i suoi diabolici zoccoli, la bestia carica di nuovo nella tua direzione. Tu salti giù dal dirupo all'ultimo secondo, tenendoti alla corda con tutta la tua forza. L'**Alce Sanguinaria** tenta di fermare il proprio attacco nel momento in cui vede cadere il suo bersaglio. Fa un **tiro salvezza su DES** per vedere se riesce a fermarsi. Diamine, ha tirato un 20 e precipita oltre l'orlo del burrone nella vasta oscurità sottostante."_
 
- **Warden**: "_After your encounter with the **Blood Elk**, you return to camp and try to catch as much sleep as they can. By daybreak both of you are awake and ready to continue on your journey."_
+  **Custode**: _"Dopo il vostro incontro con l'**Alce di Sangue**, tornate all'accampamento cercando di recuperare quanto più sonno potete. All'alba siete entrambi svegli e pronti a continuare il vostro viaggio."_
 
- **Esther**: _"Right. The question is, how do we cross the **God-Slip**? Are there any bridges at our level?"_
+ **Esther**: _"Va bene. La domanda è, come attaversiamo il **Crollo Divino**? Ci sono ponti al nostro livello?"_
 
- **Warden**: _"Not that you can see. In the far North a copse of trees hugs the ravine and partially blocks your way; you'd need to explore a bit to see past them.  A few hundred meters South however you can see a small shelf jutting out from inside the ravine, probably fifty feet down. It makes a sort of "L" shape, getting pretty close to the other side. It might require a little work to shimmy onto, but it seems doable."_
+ **Custode**: _"Non che possiate vedere. Lontano a Nord un gruppetto di alberi cresce vicino al crepaccio e blocca parzialmente la vostra visuale; dovrete esplorare un po' per vedere cosa c'è oltre. Qualche centinaio di metri a Sud, invece, potete vedere un piccolo ripiano che sporge dalle pareti del crepaccio, circa cinquanta piedi più sotto. Ha una specie di forma a "L" e si avvicina parecchio all'altro lato. Potrà volerci un po' di lavoro per arrivarci, ma sembra fattibile."_
 
- **Barry**: _"I say, let's go for the shelf. Still go that rope and pitons?"_
+ **Barry**: _"Io dico di andare per il ripiano. Hai ancora la corda e i chiodi?"_
 
- **Esther**: _"Yeah, I don't see a better way across. Let's go."_
+ **Esther**: _"Già, non vedo un modo migliore per arrivare dall'altra parte. Andiamo."_
 
- **Warden**: _"After a half hour's walk along the ravine, you finally arrive at a spot just above the shelf. Deep within the chasm you can see a blanket of early morning fog, and just beneath it the glitter of rushing water."_
+ **Custode**: _"Dopo una camminata di mezzora lungo il crepaccio, arrivate finalmente a un punto proprio sopra il ripiano. Nelle profondità dell'orrido potete vedere un lenzuolo di bruma mattutina e subito sotto ad essa il luccichio dell'acqua corrente"_
 
- **Barry**: _"Are there any large stones near the edge? I'd like to hammer a piton into it, then loop our rope through. I can lower myself safely into the ravine and onto the shelf."_
+ **Barry**: _"Ci sono grosse pietre vicino al bordo? Vorrei piantarci dentro un chiodo e fissarci la corda. Così potrò calarmi in sicurezza fino al ripiano"_
 
- **Warden**: _"You find a large stone along the edge and hammer the piton into it."_
+ **Custode**: _"Trovi una grossa pietra sul bordo e ci pianti dentro il chiodo."_
 
- **Barry**: _"Great, I lower myself down, then light up my lantern. **Esther** will follow, I assume."_
+ **Barry**: _"Ottimo, mi calo e po accendo la mia lanterna. **Esther** mi seguirà, suppongo."_
 
- **Warden**: _"Carefully planting your feet on the shelf, you test the rope and call up to **Esther**, who climbs down. After she has arrived safely on the shelf, you survey your surroundings. The shelf appears to zigzag down the inside of the ravine, nearly to the bottom. The sound of rushing water below fills the ravine. Do you leave the rope behind for the return journey?"_
+ **Custode**: _"Piantando attentamente i tuoi piedi sul ripiano, testi la corda e chiami **Esther**, che si cala. Dopo che è arrivata in sicurezza sul ripiano, osservate i vostri dintorni. Il ripiano sembra andare a zigzag verso il basso, all'interno dell'orrido e quasi fino in fondo. Il suono dell'acqua corrente riempie il crepaccio. Volete lasciare la corda qui per il viaggio di ritorno?"_
 
- **Esther**: _"Unfortunately, yes. I'm also going to mark our location on my map. Who knows if it'll make a difference, but just in case... OK, let's get out of here."_
+ **Esther**: _"Purtroppo sì. Inoltre segnerò la nostra posizione sulla mia mappa. Chissà se servirà a qualcosa, ma non si sa mai... OK, andiamo via da qui"_
+ 
+ **Custode**: _"Ti muovi cautamente lungo la sporgenza, piantando le dita nella parete del crepaccio per sicurezza. Dopo quindici faticosi minuti, arrivate finalmente a una piccola cascata che blocca il passaggio in avanti. L'acqua gelata scorre lungo la scivolosa superficie rocciosa e finisce in un piccolo bacino sotto. Qui la roccia è coperta di muschio bagnato e probabilmente scivolerete se cercherete di passare attraverso. Cosa fate?"_
+ 
+ **Barry**: _"C'è un altro modo di andare avanti?"_
 
- **Warden**: _"You move carefully along the shelf, digging your fingers into the cliff-face for safety. After an arduous fifteen minutes, you finally arrive at a small waterfall blocking the path forward. Icy water flows down the slippery rock surface and into a small basin below. The rock wall is slick with moss here, and you will likely slip if you try to step through. What do you do?"_
+ **Custode**: _"Non che tu sappia. Potresti provare a calarti, ma è piuttosto buio e probabilmente ancora più pericoloso."_
 
- **Barry**: _"Is there another way forward?"_
+ **Barry**: _"Ok, penso che tenterò la fortuna con la cascata, grazie. **Esther**, potresti tenerti alla mia sacca mentre passo attraverso?".
 
- **Warden**: _"Not from what you can tell. You could try and climb down, but it is quite dark and likely even more dangerous."_
+ **Esther**: _"E farmi trascinare giù con te? No grazie!"_
 
- **Barry**: _"OK, I think I'll try my luck with the waterfall, thank you. **Esther**, can you hold on to my bag as I step through?"_
+ **Custode**: _"Dovrai fare un **tiro salvezza su DES** per vedere se riesci ad attraversare la superficie viscida senza scivolare."_
 
- **Esther**: _"And have you take me with you? No thanks!"_
+ **Barry**: _"Ok, passo a **Esther** la mia lanterna così posso usare entrambe le mani...e ho fatto 14, un fallimento. Dannazione."_
 
- **Warden**: _"You'll have to make a **DEX save** to see if you can cross over the slick surface without slipping."_
+ **Custode**: _"Scivoli e cadi lungo la cascata e nel bacino d'acqua sottostante, battendo forte la mano sul bordo allo stesso tempo. Ricevi 1d4 danni a DES e non puoi stringere bene gli oggetti nella tua mano dominante. È quasi completamente buio, ma puoi ancora vedere la luce della torcia della tua compagna sopra di te."_
 
- **Barry**: _"OK, I hand **Esther** my lantern so I can use both hands.... and I rolled a 14, a fail. Damn."_
+  **Barry**: _"Beh, quella era una cattiva idea! Come farò a risalire? A meno che... Ehi, quanto riesco a vedere nell'oscurità sotto di me?"_
 
- **Warden**: _"You slip and tumble down the waterfall and into the water-filled basin below, smacking your hand hard into the side of the pool at the same time. You lose 1d4 DEX damage, and you are unable to properly squeeze items in your dominant hand. It's almost completely dark, but you can still make out the light of your comrade's torch above."_
+ **Custode**: _"Non c'è molta luce qui, ma qualcosa brilla nell'oscurità sotto di te. Se avessi più luce, forse potresti vedere cos'è"_
 
- **Barry**: _"Well, that was a bad idea! How exactly am I going to get back up? Unless... hey, how much can I see into the darkness below?"_
+ **Esther**:_"Potrei lanciargli la mia lanterna. Serve un tiro?"_
 
- **Warden**: _"There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."_
+ **Custode**:_"Normalmente non servirebbe, ma ricorda che la sua mano è ancora ferita dalla caduta. Direi che deve tirare lui, visto che è quello più in pericolo."_
 
- **Esther**: _"Why don't I toss him down my lantern. Does that require a roll?"_
+ **Barry**: _"Ho fatto 3. Finalmente!"_
 
- **Warden**: _"Normally, no. But remember his hand is still somewhat injured from the fall. I'm going to say that he has to roll, since he's also the most at risk."_
+ **Custode**: _"**Barry**, afferri la lanterna senza problemi. Ora hai una vista decente dell'orrido sotto di te. Vedi una serie di piccole cascate, bacini e sporgenze che arrivano fino a un fiume sul fondo. C'è persino un restringimento nell'orrido stesso, a circa 50 piedi a sud, da cui potresti riuscire a saltare dall'altra parte!"_
 
-**Barry**: _"I rolled a 3. Finally!"_
+ **Barry**: _"Ah! Sapevo che sarebbe stata una buona idea. Come arriviamo là sotto?"_
+ 
+ **Custode**: _"Potresti farti scivolare lungo la cascata che scende dalla pozza dove ti trovi... È un salto corto, quindi non sei in pericolo, nemmeno con la mano che ti ritrovi."_
 
- **Warden**: _"**Barry**, you catch it without issue. Now you get a decent view of the chasm beneath. You see a series of small waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself about 50 feet South where you could conceivably leap over to the other side!"_
+ **Esther**: _"Però come faccio a scendere anch'io? Aspetta, ho un'idea. Posso vederlo, giusto? E se saltassi..."_
 
- **Barry**: _"Ha! I knew this was a good idea. But how do we get down there?"_
+ **Barry**: _"...dovrei prenderti al volo? Con quale mano, di grazia?"_
 
- **Warden**: _"You can actually slide down the waterfall pouring out from the small pool you're already standing in... it's a short drop, so you aren't in any great danger, even with that hand of yours."_
+ **Esther**: _"Non essere ridicolo. Sarai il mio cuscino."_
 
- **Esther**: _"And how exactly do I get down there, though? Wait, I've got an idea. I can see him, right? What if I were to jump..."_
+ **Custode**: _"Dovresti sapere che non sei particolarmente in pericolo visto che stai puntando alla pozza, ma questo non vuol dire che non ci siano rischi. Dovrai tenerti alla parete con entrambe le mani non sarà un viaggio tranquillo. Qualcosa potrebbe caderti."_
 
- **Barry**: _"...Am I supposed to catch you? With which hand, exactly?"_
+ **Esther**: _"Ok, la mia DES non è altissima ma andiamo comunque... e ho fatto 13, un fallimento. Vedi, **Barry**? Non sei l'unico sfortunato qui."_
+ 
+ **Custode**: _"Ce la fai, ma la discesa non è divertente. Un oggetto cade dal tuo zaino, quindi tirerò un dado Fato... sei fortunata, è un 5! Ok, decidi tu cosa cade."_
 
- **Esther**: _"Don't be ridiculous. You'll be my landing pad."_
+ **Esther**: _"Se posso scegliere cosa perdere... che ne dici della mia ultima torcia? Tutto il resto è troppo importante e comunque abbiamo ancora olio e lanterna."_
 
- **Warden**: _"You should know that you aren't in any terrible danger here since you're actually aiming for the pool, but that doesn't mean it's risk-free. You'll need to hold on to the wall with both hands, and it should be a bumpy ride. Something could pop loose."_
+ **Custode**: _"Il rumore del piccolo pezzo di metallo che rimbalza contro le pareti dell'orrido si interrompe quando raggiunge l'acqua corrente al di sotto."_
 
- **Esther**: _"OK, my DEX isn't great, but here goes anyways... and I rolled an 13, a fail. See **Barry**? You're not the only one with bad luck around here."_
+ **Custode**: _"Lentamente, scendete nell'oscurità quasi totale dell'orrido. La vostra lanterna è abbastanza luminosa da garantire un viaggio sicuro, ma è anche un faro nella notte per chiunque o qualsiasi cosa possa trovarsi qua sotto. Fortunatamente, sembrate essere da soli, almeno per ora. Alla fine, il ruggito del fiume copre le vostre parole."_
 
- **Warden**: _"You make it, but the journey down wasn't fun. One item from your pack is knocked loose, so I'm going to roll a Fate die... hey, a lucky 5! OK, you get to choose what falls out."_
+  **Esther**: _"Ho un brutto presentimento. Quanto dobbiamo ancora scendere?"_
 
- **Esther**: _"If I get to choose what I lose though... how about my remaining torch? Everything else is just too important, and we still have a lantern and oil."_
+  **Custode**: _"Siete poco sopra il letto del fiume, a dire il vero. Piazzando accuratamente i vostri piedi sulla superficie scivolosa, alzi la lanterna e guardi l'acqua brillare, quasi in risposta. Siete a poche dozzine di piedi dalla sporgenza che avete visto prima."_
 
- **Warden**: _"You hear the small metal shard bounce against the ravine wall, ending in a splash as it lands in the flowing water beneath."_
+  **Esther**: _"Quanto ci sembra pericoloso attraversare lì?"_
 
-  **Warden**: _"Slowly you descend into the near-absolute darkness of the ravine. Your lantern is bright enough to allow safe travel, but also acts as a shining beacon to anyone or anything that might be down here. Fortunately it seems that you are largely alone, at least for now. Eventually the roar of the river below begins to drown out your voices."_
+  **Custode**: _"Dovrete saltare. L'acqua è subito sotto, quindi dovrebbe essere un atterraggio morbido. La corrente, però, sembra bella forte"_
 
-  **Esther**: _"Ugh, I have a bad feeling about this. How far down do we have to go?"_
+  **Esther**": _"Cosa intendevi dire prima, quando hai detto che il fiume brillava quasi in risposta? Non sono pronta ad affrontare un fiume intelligente."_
 
-  **Warden**: _"You're just above the riverbed, actually. Carefully placing your feet onto the slick surface, you hold your lantern high and watch as the water glitters, almost in response. You are only a few dozen feet from the shelf you saw earlier as well."_
+  **Custode**: _"Non ne sei totalmente sicura, ma sembra che possa esserci qualcosa di vivo lì sotto. Come ex erborista, sai già dell'esistenza di piante bioluminescenti."_
 
-  **Esther**: _"How dangerous do we think it would be to cross that way?"_
+  **Barry**: _"Piante? Possiamo affrontare delle piante. Perché non guadiamo direttamente il fiume?"_
 
-  **Warden**: _"You'll have to jump. The water rushes right beneath, so you'd have a soft landing. The current looks strong as well._
+  **Esther**: _"Uhm... potrebbe essere una buona idea. Aspetta, e se ci fossero rocce nascoste o qualcosa del genere?"_
 
-  **Esther**: _"What did you mean before when you said that the river glittered as if in response? I am not prepared to deal with intelligent rivers."_
+  **Custode**: _"Potreste certamente provare. Non sembrano esserci molte rocce che spuntano da quello che potete vedere, in effetti"_
 
-  **Warden**: _"You're not totally sure, but it looked like there might be something alive in there. As a former herbalist, you already know about bioluminescent plants."_
+  **Esther**: _"Questa volta vado prima io. Dovrai tenermi la lanterna con la tua mano buona, **Barry**."_
+  
+  **Barry**: _"Buona idea. E mi metterò anche ad urlare se qualcosa dovesse saltare fuori dal fiume per provare a mangiarti."_
 
-  **Barry**: _"Plants? We can handle plants. Why don't we just wade through the river here?"_
+  **Custode**: _"Entri nell'acqua corrente. La corrente tira le tue gambe, ma ti senti comunque abbastanza forte da attraversare senza bisogno di aiuto. Lentamente, cominci il tuo viaggio; a ogni passo puoi vedere delle piante colorate - forse alghe - brillare e muoversi in risposta ai tuoi movimenti. Potrebbe anche essere solo la luce."_
 
-  **Esther**: _"Hmm that's might be a good idea. Wait, what about hidden rocks and such?"_
+  **Esther**: _"Ehm... posso sentirle?"_
 
-  **Warden**: _"You could try, certainly. There don't appear to be a lot of rocks poking out of here that you can see, either."_
+  **Custode**: _"Senti solo l'umidità dell'acqua. Frose un lontano solletico, ma potrebbero essere solo delle canne. Sembrano reagire a ogni tuo movimento."_
 
-  **Esther**: _"I'll go first this time. You hold the lantern up with your good hand, **Barry**."_
+  **Esther**: _"Interessante. Se non sono in pericolo immediato credo che andrò avanti. La nostra luce ci permette di vedere fino dall'altra parte del fiume?"_
 
-  **Barry**: _"Good call. I'll yell out if something leaps out of the river and tries to eat you, too."_
+  **Custode**: _"Quasi. Sei a circa metà dell'attraversamento quando **Barry** vede qualcosa muoversi nell'acqua a valle da te. È nero e lucido, come un'anguilla. È anche lungo circa 5 piedi."_
 
-  **Warden**: _"You step into the rushing river. It pulls on your legs, but otherwise you feel strong enough to cross without aide. Slowly you begin your journey; with each step you can see the colorful plants - algae, perhaps - glowing and moving in response to your footsteps. It might also just be the light."_
+  **Barry**: _"Le dico di tornare indietro."_
 
-  **Esther**: _"Uh... Can I feel them?"_
+  **Esther**: _"Posso andare più veloce di questa cosa?"_
 
-  **Warden**: _"Only the wetness of the river. Perhaps a distant tickling but that could be the reeds. They seem to react to your every movement."_
+  **Warden**: _"Uhm... Dovrai fare un tiro salvezza su DES."_
 
-  **Esther**: _"Interesting. If I'm not in any danger though I think I'll press. Does our light allow us to see across the whole river yet?"_
+  **Esther**: _"Scusa **Barry**, voglio vedere se riesco a batterla. Capiremo come farti attraversare una volta che sarò di nuovo all'asciutto. Ok, andiamo... Sì! Un 2! Attraverso in corsa."_
 
-  **Warden**: _"Nearly. You are about halfway across when **Barry** sees something moving in the waters ahead. It is jet-black and sleek, like an eel. It is also around 5 feet long."_
+  **Custode**: _"Aumenti enormemente il tuo passo, scattando attraverso l'acqua con grandi schizzi. Con ogni balzo, i tuoi piedi distruggono le creature colorate nell'acqua. L'acqua comincia a muoversi violentemente attorno alle tue caviglie. A valle, quella specie di anguilla scatta in avanti, come in risposta. Arrivi finalmente all'altra riva, mentre l'acqua del fiume ribolle alle tue spalle. Mentre salti fuori dall'acqua, un po' della sostanza luminescente si attacca alla tua caviglia destra. Una volta a terra, non sembri in grado di liberartene. Non ti fa male o altro, ma sembra che sia stata dipinta sulla tua caviglia."_
 
-  **Barry**: _"I warn her to pull back."_
+  **Esther**: _"Diamine! Cosa sembra? Inoltre, cosa vedo da questa parte del fiume?"_
 
-  **Esther**: _"Can I outrun this thing?"_
+  **Custode**: _"La senti bagnata, ma a parte quello sembra un tatuaggio. È come se fosse parte di te. Ti trovi su una riva praticamente identica a quella dall'altra parte; dovrai esplorare un po' per saperne di più."_
 
-  **Warden**: _"Hmm... You'd have to make a DEX save."_
+  **Esther**: _"Suppongo di poter ignorare la caviglia, per ora, se non mi fa male o altro. **Barry**, come intendi attraversare queste acque inquiete e infestate dalle anguille? Magari dovresti provare dalla quella sporgenza più a valle?"_
 
-  **Esther**: _"Sorry **Barry**, I want to see if I can outrun it. We'll figure out how to get you across once I'm on dry land again. OK, here goes... Yes, a 2! I charge across."_
+  **Barry**: _"Si può fare. Quante torce ti rimangono? Non voglio lasciarti al buio mentre scendo. Potresti anche provare a seguirmi per un po', anche se la luce potrebbe non essere perfetta."_
 
-  **Warden**: _"You increase your pace dramatically, sprinting across the water in big splashes. With each leap, your foot disrupts the colorful creatures within. The water begins to roil violently around your ankles. Ahead, the eel-like creature darts away as if in response. You finally arrive at the other bank, the river's water bubbling behind you. As you leap out of the water, some of the bioluminescent substance sticks to your right ankle. Standing up on the dry ground, you seem unable to kick it off. It doesn't hurt you or anything, but feels like its been painted to your ankle."_
+  **Esther**: _"Le ho finite, purtroppo. Ma magari se ti seguo potrò fare qualcosa dal mio lato per aiutarti a saltare?"_
 
-  **Esther**: _"Damn! What does it feel like? Also, what do I see on this side of the river?"_
+  **Custode**: _"Marciate in parallelo su entrambi i lati del fiume, con la luce della lampada di **Barry** che illumina a malapena la vostra strada. **Esther**, tu stai facendo particolarmente fatica, perché devi stare molto vicina al fiume per evitare di finire in ombre sconosciute."_
 
-  **Warden**: _"It feels a bit wet, but otherwise like a tattoo on your skin. Like it's a part of you. You are standing on a near-identical bank as the opposite side; you'll have to explore a bit to learn more."_
+  **Esther**: _"Se sono vicina al fiume, vorrei studiarlo ancora un po'. Riesco ancora a vedere quelle cose piantose bioluminescenti?"_
+  
+  **Warden**: _"Sì e sembra che ti seguano. La cosa interessante è che la luce dei loro movimenti è quasi sufficente a farti vedere il fiume."_
 
-  **Esther**: _"I suppose I can ignore this for now, if it isn't hurting me or anything. **Barry**, how are you going to cross these swirling eel-infested waters? Maybe off that ledge further down?"_
+  **Barry**: _"Bene. Magari riesci a tenere gli occhi aperti nel caso ci siano altre anguille? E io? Cosa vedo mentre attraverso questo crepaccio dimenticato dagli dèi?"_
 
-  **Barry**: _"That works. How many torches do you have left? I don't leave you in the dark when I head down there. You could also follow me down a bit, though the light might not be perfect."_
+  **Custode**: _"Le pareti dal tuo lato del fiume si restringono un po' mentre ti avvicini alla sporgenza sollevata che avevi visto prima; in effetti, inizi a sentirti piuttosto schiacciato. Fortunatamente  sei abbastanza ossuto da riuscire a raggiungere la sporgenza, che blocca completamente il passaggio."_
 
-  **Esther**: _"I'm all out, unfortunately. But maybe if I follow you I can do something on this end to help you jump that ledge?"_
+  **Esther**: _"Cosa vedo dal mio lato del fiume? Devo ancora stare attaccata all'acqua?"_
 
-  **Warden**: _"You march in parallel on either sides of the fast-moving river the light from **Barry's** lamp just barely illuminating your way. **Esther**, you are having an especially difficult time as you have to hug the riverbank or avoid stepping into shadows unknown."_
+  **Custode**: _"Il crepaccio non è altrettanto stretto dal tuo lato, quindi sarebbe facile continuare ad scendere a valle per te, se volessi allontanarti dalla luce, ovviamente. Ma, più importante, riesci a vedere che la sporgenza una volta si estendeva attraverso il fiume, perché ce n'è una speculare che spunta dall'altro lato. C'è un grosso buco in mezzo, però. Forse è collassata a un certo punto del passato? In ogni caso, **Barry** può provare a scalare la sporgenza o entrare nel fiume e aggirarla. Almeno questa volta non c'è una cascata viscida da aggirare!"_
 
-  **Esther**: _"If I'm close to the river, I'd like to study it some more. Do I still see the swirling bioluminescent plant things?"_
+  **Barry**: _"Assumendo di potercela fare facilmente, direi di scalare questa cosa"_
 
-  **Warden**: _"Yes, and they seem to be following you. Interestingly, the light from their movement is almost enough to see the into the river."_
+  **Custode**: _"Ci sali sopra con una certa facilità, appoggiando la lampada in cima e tirandoti su. Ora devi solo arrivare dall'altra parte."_
 
-  **Barry**: _"That's good. Maybe now you can keep an eye out for any more eels? What about me? What do I see as I trod down this godforsaken ravine?"_
+  **Barry**: _"Domanda veloce, com'è l'acqua esattamente al centro del fiume, dove si trova il buco?"_
 
-  **Warden**: _"The walls on your side of the river narrow a bit as you get closer to the raised shelf you spied earlier; in fact you begin to feel quite squeezed-in. Fortunately you are scrawny enough to just make it to the shelf, which completely blocks your way forward."_
+  **Custode**: _"È difficile da dire da lì, ma se ti avvicini potresti vederci meglio. **Esther** invece ha osservato il fiume tutto il tempo e può vedere che le acque si stanno muovendo molto rapidamente, in una formazione circolare."_
 
-  **Esther**: _"What can I see from my side of the river? Am I still forced to hug the riverbank?"_
+  **Esther**: _"Sono le anguille, vero? Scommetto che sono le anguille. Cosa stanno facendo ora i miei bio-amici?"_
 
-  **Warden**: _"The ravine isn't nearly as narrow from your end, meaning it would be easy to continue on forward from where you are, were you to move away from the light of course. But more importantly, you can see that the shelf used to extend across the river, as there is a mirrored shelf sticking out from the other side as well. There is a massive gap between, though. Perhaps it collapsed at some point in the past? Anyway, **Barry** can try and climb the shelf or enter the river and move around it. At least this time there isn't a slimy waterfall to get around!_
+  **Custode**: _"Guardando nell'acqua vicino alla riva vedi che tutte le creature bioluminescenti sono scappate, come se avessero paura di questa parte del fiume."_
 
-  **Barry**: _"Assuming I can easily scale this thing, I'd say: let's go for it."_
+  **Esther**: _"Uhm...ok, ho una teoria. **Barry**, dovresti reggere la lanterna sul buco nel "ponte" e vedere cosa succede."_
 
-  **Warden**: _"You mount it with ease after placing your lamp on top and then pulling yourself up. Now you just have to get across."_
+  **Barry**: _"Ok. Cammino attentamente fino al centro del fiume sul "ponte", poi mi sdraio e estendo la lanterna oltre il bordo - ma poco. Voglio stare più al sicuro possibile qui."_
 
-  **Barry**: _"Quick question, what is the water like in the exact center of the river where the gap is?"_
+  **Custode**: _"Nel momento in cui la abbassi, una lucida anguilla nera salta in aria e fa scattare i suoi denti acuminati verso la lanterna. Sei abbastanza veloce da salvarla, però. L'anguilla ricade in acqua con uno spruzzo."_
 
-  **Warden**: _"It's a bit difficult to tell from here, but if you move closer you might get a better look. **Esther** however has been watching the river all the while, and can see that the waters within are moving quite rapidly, in a circular formation."_
+  **Barry**: _"Wow! Quello faceva paura. Immagino di dover fare un tiro salvezza per attraversare, vero?"_
 
-  **Esther**: _"These are eels right? I bet they're eels. What are my bio-friends doing right now?"_
+  **Custode**: _"Se non hai un'idea migliore, sì."_
 
-  **Warden**: _"Looking down into the waters near the shore you see that all of the bioluminescent creatures have fled, almost as if in fear of this part of the river."_
+  **Esther**: _"Io ne ho una. **Barry**, perché non spegni quella luce?"_
+  
+  **Barry**: _"Fatto. E ora?"_
 
-  **Esther**: _"Hmm... alright, I've got a theory. **Barry**, you should hold the lantern between the gap in the "bridge" and see what happens."_
+  **Custode**: _"Spegni la lanterna. Sbattendo le palpebre, i tuoi occhi cominciano lentamente ad abituarsi all'oscurità. Improvvisamente vedi una luce brillare dall'altra parte del fiume, dove si trova **Esther**. È la sua caviglia, brilla come una candela!"_
 
-  **Barry**: _"Uh, OK. I carefully walk to the middle of the river on the "bridge", then lay down, hanging my lantern over the edge - but only just. I want to be as safe as possible here."_
+  **Esther**: _"Aspetta, posso emettere luce ora? Sono una torcia umana?"_
+  
+  **Custode**: _"Nella completa oscurità, sì. Speriamo che tu non vada a strisciare nel buio tanto presto."_
 
-  **Warden**: _"The moment you lower it, a slick black eel leaps into the air and snaps at the lantern with needle-like teeth. You're quick enough to save it, though. The eel splashes back into the water."_
-
-  **Barry**: _"Wow! That was scary. I'm guessing I'll need to save in order to jump across, right?"_
-
-  **Warden**: _"Unless you've got a better idea, yes."_
-
-  **Esther**: _"I have one. Hey **Barry**, why don't you extinguish that light?"_
-
-  **Barry**: _"Done. Now what?"_
-
-  **Warden**: _"You switch off the lantern. Blinking in the darkness, your eyes slowly being to adjust. Suddenly you see a light beginning to glimmer on the far-off shore where **Esther** is standing. It's her ankle; it is lit up like a candle!"_
-
-  **Esther**: _"Wait, can I make light now? Am I a human torch?"_
-
-  **Warden**: _"In complete darkness, yes. Let's hope you don't to go sneaking around in the dark anytime soon."_
-
-  **Barry**: _"Well, this is cool. So the eels like the light, right? This gives me an idea..."_
+  **Barry**: _"Questo è figo. Quindi alle anguille piace la luce, eh? Questo mi dà un'idea..."_
